@@ -1,0 +1,71 @@
+* {
+  font-family: serif;
+}
+
+body {
+  background-size: 100%;
+  background-position: center;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQifmXsKeT4IsuSNAM3Bdf2Z03UEOedGdA4cUkRsRlW67yPS_-o9uhEiG1b&s=10)
+}
+
+.menu {
+  background: burlywood;
+  margin: 0 auto;
+  width: 80%;
+  padding: 20px;
+  max-width: 500px;
+}
+
+h1, h2, p {
+  text-align: center;
+}
+
+h1, h2 {
+  font-family: Impact, serif;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 15px;
+  margin-top: 0px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+#p1 {
+  color: blue;
+  font-style: italic;
+}
+
+.paragrafos-iguais {
+  
+}
+
+#paragrafo-importante {
+  
+}
+
+.price {
+  text-align: right;
+  width: 25%;
+}
+
+.flavor, .dessert {
+  text-align: left;
+  width: 75%;
+}
+
+.item p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  
+}
+
+hr {
+  height: 2px;
+  border-color: brown;
+  background: brown;
+}
